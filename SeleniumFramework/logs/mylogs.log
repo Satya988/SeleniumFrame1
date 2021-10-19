@@ -1,0 +1,15 @@
+[INFO ] 2021-10-02 13:06:31.912 [main] Log4Jdemo - logger file info
+[ERROR] 2021-10-02 13:06:31.917 [main] Log4Jdemo - logger file error
+[WARN ] 2021-10-02 13:06:31.918 [main] Log4Jdemo - logger file warn
+[FATAL] 2021-10-02 13:06:31.918 [main] Log4Jdemo - logger file fatal
+[DEBUG] 2021-10-02 13:06:31.918 [main] Log4Jdemo - debug
+[TRACE] 2021-10-02 13:06:31.918 [main] Log4Jdemo - traceS
+[INFO ] 2021-10-02 13:07:50.585 [main] Log4Jdemo - logger file info
+[ERROR] 2021-10-02 13:07:50.590 [main] Log4Jdemo - logger file error
+[WARN ] 2021-10-02 13:07:50.590 [main] Log4Jdemo - logger file warn
+[FATAL] 2021-10-02 13:07:50.590 [main] Log4Jdemo - logger file fatal
+[DEBUG] 2021-10-02 13:07:50.590 [main] Log4Jdemo - debug
+[ERROR] 2021-10-02 13:21:48.882 [main] Log4Jdemo - logger file error
+[FATAL] 2021-10-02 13:21:48.899 [main] Log4Jdemo - logger file fatal
+[ERROR] 2021-10-02 13:24:20.184 [main] Log4Jdemo - logger file error
+[FATAL] 2021-10-02 13:24:20.189 [main] Log4Jdemo - logger file fatal
