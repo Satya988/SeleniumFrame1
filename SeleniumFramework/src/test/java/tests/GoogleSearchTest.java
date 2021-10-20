@@ -47,7 +47,7 @@ public class GoogleSearchTest {
 		test1=extent.createTest("My test","sample");
 		 
 		GoogleSearchPage.Url_page(driver);
-		GoogleSearchPage.Search_Box(driver).sendKeys("qwerty");
+		GoogleSearchPage.Search_Box(driver).sendKeys("qwertyu");
 		test1.pass("Keys sent to textbox");
 		GoogleSearchPage.Enter_Box(driver).sendKeys(Keys.RETURN);
 		test1.pass("Searching is returned");
