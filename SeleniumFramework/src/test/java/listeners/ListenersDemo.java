@@ -10,7 +10,7 @@ import com.aventstack.extentreports.util.Assert;
 
 import net.bytebuddy.implementation.bytecode.Throw;
 
-//@Listeners(listeners.TestNGlisteners.class)
+@Listeners(listeners.TestNGlisteners.class)
 public class ListenersDemo {
 
 	@Test

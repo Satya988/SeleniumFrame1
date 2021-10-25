@@ -57,7 +57,7 @@ public class GoogleSearchTest {
 	@Test(retryAnalyzer=listeners.RetryAnalyzer.class)
 	
 	public void Search2() throws InterruptedException {
-		int i = 1/0;
+		//int i = 1/0;
 		test2=extent.createTest("My test","sample");
 		
 		GoogleSearchPage.Url_page(driver);
