@@ -38,3 +38,9 @@
 [WARN ] 2021-10-02 11:24:38.590 [main] Log4Jdemo - logger file warn
 [FATAL] 2021-10-02 11:24:38.590 [main] Log4Jdemo - logger file fatal
 [FATAL] 2021-10-02 11:27:11.796 [main] Log4Jdemo - logger file fatal
+[INFO ] 2021-10-28 12:44:51.142 [main] Log4Jdemo - logger file info
+[ERROR] 2021-10-28 12:44:51.147 [main] Log4Jdemo - logger file error
+[WARN ] 2021-10-28 12:44:51.148 [main] Log4Jdemo - logger file warn
+[FATAL] 2021-10-28 12:44:51.148 [main] Log4Jdemo - logger file fatal
+[DEBUG] 2021-10-28 12:44:51.148 [main] Log4Jdemo - debug
+[TRACE] 2021-10-28 12:44:51.148 [main] Log4Jdemo - traceS

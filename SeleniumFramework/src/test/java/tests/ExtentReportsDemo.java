@@ -34,9 +34,9 @@ public class ExtentReportsDemo {
 		 driver.get("https://google.com");
 		 test1.pass("navigate to google");
 			GoogleSearchPage.Search_Box(driver).sendKeys("qwerty");
-			test1.pass("textbox success");
+			test1.fail("textbox success");
 			GoogleSearchPage.Enter_Box(driver).sendKeys(Keys.RETURN);
-			test1.pass("search success");
+			test1.skip("search success");
 			
 			driver.close();
 			test1.pass("browser closed");

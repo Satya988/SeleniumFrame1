@@ -15,6 +15,7 @@ public class Log4Jdemo {
 		logger.debug("debug");
 		logger.trace("traceS");
 		
+		
 
 	}
 

@@ -39,8 +39,6 @@ public class ExcelUtildata {
 		//excel.AllData(a,b);
 		
 		
-						
-						
 						for(int i=1;i<k;i++)
 						{
 							for(int j=0;j<l;j++)
